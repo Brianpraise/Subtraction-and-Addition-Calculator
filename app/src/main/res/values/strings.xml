@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brayo calculator</string>
+    <string name="top">Hello world, AndroidCalculator!</string>
+    <string name="textview">TextView</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+</resources>
